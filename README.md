@@ -1,0 +1,1 @@
+# OpenCore-0.8.3-EFI-MSI-H410I-Pro-Wifi-10500ES-iGPU
